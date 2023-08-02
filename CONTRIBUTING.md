@@ -1,4 +1,4 @@
-# How to Contribute to Elastic Cloud on Kubernetes
+# How to Contribute to Elastic Cloud on Kubernetes x:
 
 Thank you for your interest in contributing to Elastic Cloud on Kubernetes!
 The goal of this document is to provide a high-level overview on how you can get involved.
